@@ -1,6 +1,7 @@
 {
     "name": "shelton/firebase-provider",
-    "description": "Firebase Service Provider for Lumen",
+    "description": "Firebase Service Provider for Lumen/Laravel",
+    "license": "MIT",
     "keywords": ["lumen", "firebase"],
     "type": "library",
     "require": {
