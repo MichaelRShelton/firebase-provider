@@ -5,5 +5,5 @@ namespace Shelton\Firebase\Google\Firestore;
 interface Firestorable
 {
     public function getFirestoreId() : string;
-    public function toFirestore() : array;
+    public function toFirestore(bool $new = false) : array;
 }
